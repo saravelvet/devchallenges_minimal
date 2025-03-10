@@ -44,7 +44,7 @@ body {
 .container{
     margin-top: 164px;
     width: 368px;
-    height: 371px;
+    height: 341px;
     border: 0.5px solid var(--blanco1);
     background-color: var(--blanco);
     box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
@@ -98,6 +98,6 @@ h1{
     color: var(--piedra);
     padding-bottom: 20px;
     text-align:justify;
-    padding-top: 20px;
+    padding-top: 2+0px;
     border-top: 1px solid var(--gris);
 }
